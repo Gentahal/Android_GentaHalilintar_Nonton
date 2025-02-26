@@ -84,6 +84,15 @@ adb install app-debug.apk
 
 ---
 
+## 🔥 Technologies Used  
+
+- **Movie Data API**: [The Movie Database (TMDB)](https://www.themoviedb.org/)  
+- **Firestore**: Cloud Firestore for storing and syncing data.  
+- **Firebase Authentication**: Secure user authentication.  
+- **Room Database**: Local storage for offline support.  
+
+---
+
 🚀 **Enjoy the Experience & Happy Watching!** 🍿  
 
 ---
